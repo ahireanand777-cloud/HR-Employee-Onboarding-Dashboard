@@ -100,4 +100,4 @@ The objective of this project is to demonstrate practical Excel skills in data c
 
 ## Dashboard Preview
 
-![Nexors HR Employee Onboarding Dashboard](Dashboard.png)
+![Nexors HR Onboarding Dashboard](Hr%20dashboard.png)
